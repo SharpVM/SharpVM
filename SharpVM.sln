@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpVM", "SharpVM\SharpVM.csproj", "{623C43C8-5291-4673-A0E3-6192D7352B2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpVMTests", "SharpVMTests\SharpVMTests.csproj", "{F675C2A0-4380-4699-8114-6B86E0B65904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{623C43C8-5291-4673-A0E3-6192D7352B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623C43C8-5291-4673-A0E3-6192D7352B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623C43C8-5291-4673-A0E3-6192D7352B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623C43C8-5291-4673-A0E3-6192D7352B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F675C2A0-4380-4699-8114-6B86E0B65904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F675C2A0-4380-4699-8114-6B86E0B65904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F675C2A0-4380-4699-8114-6B86E0B65904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F675C2A0-4380-4699-8114-6B86E0B65904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
